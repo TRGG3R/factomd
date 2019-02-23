@@ -12,6 +12,7 @@ type IServer interface {
 
 	GetChainID() IHash
 	GetName() string
+	GetFactomdVersion() string
 	IsOnline() bool
 	SetOnline(bool)
 	LeaderToReplace() IHash
