@@ -1087,7 +1087,6 @@ func GetHardCodedGrants() []HardGrant {
 			HardGrant{233201, 900e8, validateAddress("FA3PTnet6yGwnCkprszYYfHtwqymqQQWKfFjoRkavxSda15VNtwY")},
 			// --------------------------------------------------------
 
-
 		}
 
 	default:
